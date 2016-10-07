@@ -1,0 +1,6 @@
+I fork ding from the authr into TarvosEpilepsy/ding:master.
+Then I fork from TarvosEpilespy:master into tarvos21/ding:master.
+Then I clone tarvos21/dinig:master to local directory /home/bing/Documents/ding
+I create this file, push to tarvos21/ding:master
+I pull request the change to TarvosEpilepsy/ding:master.
+I recieve the pull request from tarovs21.
